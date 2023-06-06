@@ -38,7 +38,7 @@
 
 **Основные инструменты:** `Python`, `Pandas`, `Matplotlib`, `Scikit-learn`, `NumPy`
 
-**Направление деятельнсоти:** `Machine Learning`
+**Направление деятельности:** `Machine Learning`
 
 # ВЫВОДЫ
 
